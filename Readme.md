@@ -9,3 +9,6 @@ Estudar sempre é bom, aprender, errar, tentar, erguer a cabeça e continuar. S�
 Continuar...
 
 Mais algumas alterações.
+
+
+Testando agora o comando diff...
